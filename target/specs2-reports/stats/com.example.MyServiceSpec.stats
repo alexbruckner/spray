@@ -1,0 +1,3 @@
+<com.example.MyServiceSpec-stats timestamp="1403089757261"><stats time="380" expectations="3" successes="3" examples="3"></stats></com.example.MyServiceSpec-stats>
+<com.example.MyServiceSpec-stats timestamp="1403101071382"><stats time="533" expectations="3" successes="3" examples="3"></stats></com.example.MyServiceSpec-stats>
+<com.example.MyServiceSpec-stats timestamp="1403186054229"><stats time="329" expectations="3" successes="3" examples="3"></stats></com.example.MyServiceSpec-stats>

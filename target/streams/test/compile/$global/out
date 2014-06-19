@@ -1,0 +1,36 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/Users/alexb/projects/spray-template/src/test/scala/com/example/MyServiceSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/alexb/projects/spray/src/test/scala/com/example/MyServiceSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/alexb/projects/spray-template/src/test/scala/com/example/MyServiceSpec.scala, /Users/alexb/projects/spray/src/test/scala/com/example/MyServiceSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/alexb/projects/spray-template/src/test/scala/com/example/MyServiceSpec.scala, /Users/alexb/projects/spray/src/test/scala/com/example/MyServiceSpec.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/alexb/projects/spray/target/scala-2.10/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 37759fc4, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-encoding[0m
+[0m[[0mdebug[0m] [0m	utf8[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home/jre/classes:/Users/alexb/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/alexb/projects/spray/target/scala-2.10/test-classes:/Users/alexb/projects/spray/target/scala-2.10/classes:/Users/alexb/.ivy2/cache/io.spray/spray-can/bundles/spray-can-1.1.1.jar:/Users/alexb/.ivy2/cache/io.spray/spray-io/bundles/spray-io-1.1.1.jar:/Users/alexb/.ivy2/cache/io.spray/spray-util/bundles/spray-util-1.1.1.jar:/Users/alexb/.ivy2/cache/io.spray/spray-http/bundles/spray-http-1.1.1.jar:/Users/alexb/.ivy2/cache/org.parboiled/parboiled-scala_2.10/bundles/parboiled-scala_2.10-1.1.6.jar:/Users/alexb/.ivy2/cache/org.parboiled/parboiled-core/bundles/parboiled-core-1.1.6.jar:/Users/alexb/.ivy2/cache/io.spray/spray-routing/bundles/spray-routing-1.1.1.jar:/Users/alexb/.ivy2/cache/io.spray/spray-httpx/bundles/spray-httpx-1.1.1.jar:/Users/alexb/.ivy2/cache/org.jvnet.mimepull/mimepull/jars/mimepull-1.9.4.jar:/Users/alexb/.ivy2/cache/com.chuusai/shapeless_2.10/jars/shapeless_2.10-1.2.4.jar:/Users/alexb/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.4.jar:/Users/alexb/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar:/Users/alexb/.ivy2/cache/io.spray/spray-testkit/jars/spray-testkit-1.1.1.jar:/Users/alexb/.ivy2/cache/com.typesafe.akka/akka-testkit_2.10/bundles/akka-testkit_2.10-2.1.4.jar:/Users/alexb/.ivy2/cache/org.specs2/specs2_2.10/jars/specs2_2.10-2.2.3.jar:/Users/alexb/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.0.2.jar:/Users/alexb/.ivy2/cache/org.scalaz/scalaz-concurrent_2.10/bundles/scalaz-concurrent_2.10-7.0.2.jar:/Users/alexb/.ivy2/cache/org.scalaz/scalaz-effect_2.10/bundles/scalaz-effect_2.10-7.0.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.155529 s[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(/Users/alexb/projects/spray-template/src/test/scala/com/example/MyServiceSpec.scala, /Users/alexb/projects/spray/src/test/scala/com/example/MyServiceSpec.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m

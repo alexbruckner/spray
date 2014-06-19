@@ -1,0 +1,14 @@
+test
+re-start
+re-stop
+exit
+re-start
+stop
+re-stop
+exit
+re-start
+test
+re-start
+re-stop
+pwd
+exit
